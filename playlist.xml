@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playlist>
+    <name>ReviewPlaylist</name>
+    <songList>
+        <length>220</length>
+        <singersList>
+            <gender>female</gender>
+            <id>1</id>
+            <name>Maanavi</name>
+        </singersList>
+        <singersList>
+            <gender>male</gender>
+            <id>2</id>
+            <name>Aman</name>
+        </singersList>
+        <singersList>
+            <gender>female</gender>
+            <id>3</id>
+            <name>Tejal</name>
+        </singersList>
+        <songId>123</songId>
+        <title>Urvashi Urvashi</title>
+    </songList>
+    <songList>
+        <length>230</length>
+        <singersList>
+            <gender>male</gender>
+            <id>2</id>
+            <name>Aman</name>
+        </singersList>
+        <singersList>
+            <gender>female</gender>
+            <id>3</id>
+            <name>Tejal</name>
+        </singersList>
+        <songId>124</songId>
+        <title>Dil Se</title>
+    </songList>
+    <songList>
+        <length>240</length>
+        <singersList>
+            <gender>male</gender>
+            <id>2</id>
+            <name>Aman</name>
+        </singersList>
+        <songId>125</songId>
+        <title>rehna tu</title>
+    </songList>
+</playlist>
